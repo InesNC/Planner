@@ -1,2 +1,2 @@
 # Planner
-Simple Planner
+Simple Planner in development.
